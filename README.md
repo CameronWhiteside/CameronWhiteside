@@ -8,7 +8,7 @@
 
 
 
-## Connect with me:<img src="" height="32px">
+## Connect with me:
 <a href="https://www.linkedin.com/in/cameronwhiteside/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -64,7 +64,7 @@
 <br>
 
 
-## My Github Stats: <img src="" width="45px">
+## My Github Stats:
 
 
  <p align="left" >
