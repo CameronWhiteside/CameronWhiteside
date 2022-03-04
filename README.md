@@ -1,4 +1,4 @@
-# Hi, I'm Cameron 🌱</b>&nbsp;<img src="" width="44px">
+# Hi, I'm Cameron 🌱</b>
 
 - ✨ Web Dev Pro and AppAcademy Alum
 - 🔭 I’m currently learning TypeScript, Vue, and D3.js
