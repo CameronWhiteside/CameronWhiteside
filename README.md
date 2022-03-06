@@ -1,7 +1,7 @@
 # Hi, I'm Cameron 🌱</b>
 
 - ✨ Web Dev Pro and AppAcademy Alum
-- 🔭 I’m currently learning TypeScript, Vue, and D3.js
+- 🔭 I’m currently learning TypeScript and Vue
 - 💬 Ask me about Algorithm Visualizations
 - ⚡ Fun fact: I'm a Jeopardy! bronze medalist, weekly bar trivia host, and Academic Quiz Bowl/Geography Bowl moderator. I love making learning fun and interactive.
 - 😄 Pronouns: He/him/his
