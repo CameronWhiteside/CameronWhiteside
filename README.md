@@ -8,12 +8,12 @@
 
 ## Checkout My Dijkstra Visualization Project!:
 <p>
-<a href="https://groggo-needs-coffee.herokuapp.com/" target="blank" >
+<a href="https://groggo-needs-coffee.herokuapp.com/" target="_blank" >
   <img src="https://i.ibb.co/mJ0ncfv/groggo-visualizer.gif" />
 </a>
 </p>
 
-<a href="https://groggo-needs-coffee.herokuapp.com/" target="blank" >
+<a href="https://groggo-needs-coffee.herokuapp.com/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>
   <a href="https://github.com/CameronWhiteside/Groggo-Needs-Coffee/">
@@ -24,13 +24,13 @@
 <br>
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/cameronwhiteside/" target="blank" >
+<a href="https://www.linkedin.com/in/cameronwhiteside/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://angel.co/cameron-whiteside">
     <img align="left"  src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
   </a>
-  <a href="mailto:whiteside.cameron@gmail.com">
+  <a href="mailto:whiteside.cameron@gmail.com" target='_blank>
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
