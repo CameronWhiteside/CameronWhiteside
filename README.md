@@ -1,6 +1,6 @@
 # Hi, I'm Cameron 🌱</b>
 
-- ✨ Web Dev Pro and AppAcademy Alum
+- ✨ Web Dev Pro and AppAcademy Instructional Assistant
 - 🔭 I’m currently learning TypeScript and Vue
 - 💬 Ask me about Algorithm Visualizations
 - ⚡ Fun fact: I'm a Jeopardy! bronze medalist, weekly bar trivia host, and Academic Quiz Bowl/Geography Bowl moderator. I love making learning fun and interactive.
