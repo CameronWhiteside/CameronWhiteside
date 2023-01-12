@@ -80,13 +80,6 @@
 
 
 ## My Github Stats:
-
-
- <p align="left" >
- <a href="#"><img alt="Cameron's Top Languages" height="170px"src="https://github-readme-stats.vercel.app/api/top-langs/?user=CameronWhiteside&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a>
-<!--
- <a href="#"><img alt="Cameron's Github Stats"  height="170px" src="https://github-readme-stats.vercel.app/api?username=CameronWhiteside&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
- </p>
  <p align="left" >
  <a href="#"><img  alt="Cameron's streak" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=CameronWhiteside&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a>
 
