@@ -6,23 +6,6 @@
 - ⚡ Fun fact: I'm a Jeopardy! bronze medalist, weekly bar trivia host, and Academic Quiz Bowl/Geography Bowl moderator. I love making learning fun and interactive.
 - 😄 Pronouns: He/him/his
 
-## Checkout My Dijkstra Visualization Project!:
-<p>
-<a href="https://groggo-needs-coffee.herokuapp.com/" target="_blank" >
-  <img src="https://i.ibb.co/mJ0ncfv/groggo-visualizer.gif" />
-</a>
-</p>
-
-<a href="https://groggo-needs-coffee.herokuapp.com/" target="_blank" >
-  <img align="left"  src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  </a>
-  <a href="https://github.com/CameronWhiteside/Groggo-Needs-Coffee/" target="_blank">
-    <img align="left"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-<br>
-<br>
-
 ## Connect with me:
 <a href="https://www.linkedin.com/in/cameronwhiteside/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
