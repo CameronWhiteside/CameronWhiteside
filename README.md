@@ -16,11 +16,3 @@
   <br>
 <br>
 
-
-## My Github Stats:
- <p align="left" >
- <a href="#"><img  alt="Cameron's streak" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=CameronWhiteside&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a>
-
-<!--
-<a href="#"><img alt="Cameron's Activity Graph"  height="170px" src="https://activity-graph.herokuapp.com/graph?username=CameronWhiteside&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</p> -->
