@@ -1,7 +1,6 @@
-# Hi, I'm Cam 🌱</b>
+# Hi, I'm Cam </b>
 
-- ✨ Web Dev and Applied Cryptography Pro
-- ⚡ Fun fact: I'm a Jeopardy! bronze medalist, weekly bar trivia host, and Academic Quiz Bowl/Geography Bowl moderator. I love making learning fun and interactive.
+- What it means to be a builder has totally changed. Working on unbreaking the people-systems that broke.
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/cameronwhiteside/" target="_blank" >
