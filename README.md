@@ -1,6 +1,6 @@
 # Hi, I'm Cam </b>
 
-What it means to be a builder has totally changed. Working on unbreaking the people-systems that broke.
+What it means to be a builder has totally changed. Lots broken. Starting on unbreaking the people systems.
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/cameronwhiteside/" target="_blank" >
